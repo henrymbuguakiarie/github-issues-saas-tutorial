@@ -1,0 +1,7 @@
+GitHub issues assigned to you: SaaS applications docs (TODAY)
+
+Hello assignees,
+
+Here's the weekly report for your SaaS applications documentation issues. We send these out each week to help you, the assignees, prioritize, follow up, and close our customers' issues. Thanks for contributing to this important supportability effort!
+
+https://aka.ms/github-issues-saas-tutorial
